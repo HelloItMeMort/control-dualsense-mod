@@ -197,12 +197,12 @@ void InitTriggerSettings() {
             "WEAPON_SHOTGUN_SINGLESHOT", // Shatter
             {
                 .L2 = new TriggerSetting (
-                        TriggerProfile::Bow,
-                        {7, 9, 5, 8}
+                        TriggerProfile::Hard,
+                        {}
                 ),
                 .R2 = new TriggerSetting (
-                        TriggerProfile::SlopeFeedback,
-                        {0, 5, 1, 8}
+                        TriggerProfile::Bow,
+                        {7, 9, 5, 8}
                 )
             }
         },
