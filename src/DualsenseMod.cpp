@@ -197,8 +197,8 @@ void InitTriggerSettings() {
             "WEAPON_SHOTGUN_SINGLESHOT", // Shatter
             {
                 .L2 = new TriggerSetting (
-                        TriggerMode::Rigid_A,
-                        {40, 60, 90, 150, 220, 255, 100}
+                        TriggerProfile::SemiAutomaticGun,
+                        {6, 8, 6}
                 ),
                 .R2 = new TriggerSetting (
                         TriggerProfile::SlopeFeedback,
