@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nghik\Projects\Remedy-Control-DualSense\src\dualsensitive\src\core\DS5_Input.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nghik\Projects\Remedy-Control-DualSense\src\dualsensitive\src\core\DS5_Output.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nghik\Projects\Remedy-Control-DualSense\src\dualsensitive\src\core\DS_CRC32.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nghik\Projects\Remedy-Control-DualSense\src\dualsensitive\src\core\Helpers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nghik\Projects\Remedy-Control-DualSense\src\dualsensitive\src\core\IO.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nghik\Projects\Remedy-Control-DualSense\src\dualsensitive\src\core\logger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nghik\Projects\Remedy-Control-DualSense\src\dualsensitive\src\core\udp\udp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\nghik\Projects\Remedy-Control-DualSense\src\dualsensitive\src\dualsensitive.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nghik\Projects\Remedy-Control-DualSense\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6948B87F-331D-359A-B142-32A357955C03}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

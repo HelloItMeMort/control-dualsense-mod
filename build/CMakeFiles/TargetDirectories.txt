@@ -1,0 +1,5 @@
+C:/Users/nghik/Projects/Remedy-Control-DualSense/build/CMakeFiles/dualsensitive.dir
+C:/Users/nghik/Projects/Remedy-Control-DualSense/build/CMakeFiles/dualsense-mod.dir
+C:/Users/nghik/Projects/Remedy-Control-DualSense/build/CMakeFiles/dualsensitive-service.dir
+C:/Users/nghik/Projects/Remedy-Control-DualSense/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/nghik/Projects/Remedy-Control-DualSense/build/CMakeFiles/ZERO_CHECK.dir

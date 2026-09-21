@@ -1,0 +1,11 @@
+C:\Users\nghik\Projects\Remedy-Control-DualSense\src\dllmain.cpp;C:\Users\nghik\Projects\Remedy-Control-DualSense\build\dualsense-mod.dir\Debug\dllmain.obj
+C:\Users\nghik\Projects\Remedy-Control-DualSense\src\Logger.cpp;C:\Users\nghik\Projects\Remedy-Control-DualSense\build\dualsense-mod.dir\Debug\Logger.obj
+C:\Users\nghik\Projects\Remedy-Control-DualSense\src\Utils.cpp;C:\Users\nghik\Projects\Remedy-Control-DualSense\build\dualsense-mod.dir\Debug\Utils.obj
+C:\Users\nghik\Projects\Remedy-Control-DualSense\src\Config.cpp;C:\Users\nghik\Projects\Remedy-Control-DualSense\build\dualsense-mod.dir\Debug\Config.obj
+C:\Users\nghik\Projects\Remedy-Control-DualSense\src\DualsenseMod.cpp;C:\Users\nghik\Projects\Remedy-Control-DualSense\build\dualsense-mod.dir\Debug\DualsenseMod.obj
+C:\Users\nghik\Projects\Remedy-Control-DualSense\src\minhook\src\buffer.c;C:\Users\nghik\Projects\Remedy-Control-DualSense\build\dualsense-mod.dir\Debug\buffer.obj
+C:\Users\nghik\Projects\Remedy-Control-DualSense\src\minhook\src\hook.c;C:\Users\nghik\Projects\Remedy-Control-DualSense\build\dualsense-mod.dir\Debug\hook.obj
+C:\Users\nghik\Projects\Remedy-Control-DualSense\src\minhook\src\trampoline.c;C:\Users\nghik\Projects\Remedy-Control-DualSense\build\dualsense-mod.dir\Debug\trampoline.obj
+C:\Users\nghik\Projects\Remedy-Control-DualSense\src\minhook\src\hde\hde32.c;C:\Users\nghik\Projects\Remedy-Control-DualSense\build\dualsense-mod.dir\Debug\hde32.obj
+C:\Users\nghik\Projects\Remedy-Control-DualSense\src\minhook\src\hde\hde64.c;C:\Users\nghik\Projects\Remedy-Control-DualSense\build\dualsense-mod.dir\Debug\hde64.obj
+C:\Users\nghik\Projects\Remedy-Control-DualSense\src\rva\sscan\Pattern.cpp;C:\Users\nghik\Projects\Remedy-Control-DualSense\build\dualsense-mod.dir\Debug\Pattern.obj

@@ -1,0 +1,10 @@
+^C:\USERS\NGHIK\PROJECTS\REMEDY-CONTROL-DUALSENSE\BUILD\CMAKEFILES\A7169C34D7C310CD89F6F4495746F6BA\GENERATE.STAMP.RULE
+setlocal
+C:\Users\nghik\scoop\apps\cmake\current\bin\cmake.exe -SC:/Users/nghik/Projects/Remedy-Control-DualSense -BC:/Users/nghik/Projects/Remedy-Control-DualSense/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/nghik/Projects/Remedy-Control-DualSense/build/control-dualsense-mod.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\nghik\Projects\Remedy-Control-DualSense\src\dualsensitive\src\service\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\nghik\Projects\Remedy-Control-DualSense\src\dualsensitive\src\service\resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nghik\Projects\Remedy-Control-DualSense\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\nghik\Projects\Remedy-Control-DualSense\src\dualsensitive\src\service\resources.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{B6FA949C-7961-32C2-BBEF-632F0459E554}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6948B87F-331D-359A-B142-32A357955C03}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

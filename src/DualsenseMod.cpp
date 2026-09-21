@@ -198,7 +198,7 @@ void InitTriggerSettings() {
             {
                 .L2 = new TriggerSetting (
                         TriggerMode::Rigid_A,
-                        {60, 71, 56, 128, 195, 210, 255}
+                        {40, 60, 90, 150, 220, 255, 100}
                 ),
                 .R2 = new TriggerSetting (
                         TriggerProfile::SlopeFeedback,
